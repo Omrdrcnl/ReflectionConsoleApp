@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe.config
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.pdb
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.exe
+C:\Users\ASUS\source\repos\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.pdb
